@@ -73,6 +73,7 @@ if (!isset($_SESSION['username'])) {
                     <th>SMS ID</th>
                     <th>Contact</th>
                     <th>Date</th>
+                    <th>Model</th>
                     <th>Action</th>
                 </tr>
                 </tfoot>
